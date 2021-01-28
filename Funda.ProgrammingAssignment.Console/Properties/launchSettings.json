@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Funda.ProgrammingAssignment.Console": {
+      "commandName": "Project",
+      "commandLineArgs": "--t Amsterdam"
+    }
+  }
+}
